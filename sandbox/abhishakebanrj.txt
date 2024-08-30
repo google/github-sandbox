@@ -1,1 +1,6 @@
 my first commit!
+
+
+THe CLoser you look the less you see 
+
+Experimenting with GIT !
