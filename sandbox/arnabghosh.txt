@@ -1,2 +1,5 @@
 my first commit!
+<<<<<<< HEAD
 my first commit again!
+=======
+>>>>>>> 4cc1188d405b720051591c814c37c26498a702dd
